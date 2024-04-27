@@ -1,0 +1,1 @@
+CREATE SCHEMA `neurotech` DEFAULT CHARACTER SET utf8 ;
